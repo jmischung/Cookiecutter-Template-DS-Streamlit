@@ -8,7 +8,7 @@ This template is designed to provide a starting point for creating data science 
 ---  
 
 1. Ensure `cookiecutter` is installed.
-2. In the directory where the project is to be located, run `cookiecutter https://github.com/YourGitHubUsername/Cookiecutter-Template-Data-Science-Streamlit-App`
+2. In the directory where the project is to be located, run `cookiecutter https://github.com/jmischung/Cookiecutter-Template-DS-Streamlit`
 
 <br>
 
